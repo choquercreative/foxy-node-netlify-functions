@@ -33,7 +33,7 @@ let tax_amount = tax_rate * totalToTax;
 const taxConfiguration = {
    "ok":true,
    "details":"",
-   "name":"custom tax",
+   "name":"Taxes",
    "expand_taxes":[
      // you can add up to 3 tax rates here. Be sure to add them together to get the total rate
      {
